@@ -1,3 +1,5 @@
+# Reading existing values in excel file
+# writing the case array values in place or values matched in 'value' array in excel
 # import library to edit excel
 import openpyxl
 # give the sheet path
